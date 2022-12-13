@@ -42,4 +42,8 @@
 
 - A Better Development Environment
 
-  -
+  - Create An Environment With Tailwind CLI
+
+  - Directives & Functions
+
+  - Optional - Webpack & PostCSS Environment
